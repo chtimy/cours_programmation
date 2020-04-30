@@ -1,0 +1,44 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="GDScript" id=2]
+script/source = "extends Control
+
+func _ready():
+	print_var(\"test\") 
+	
+func print_var(to_print):
+	$RichTextLabel.print_var(to_print)
+"
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends RichTextLabel
+
+func _ready():
+	add_text(\"Output : \\n\\n\")
+	
+func print_var(var to_print):
+	if to_print is Object:
+		add_text(to_print.to_string())
+	else:
+		add_text(String(to_print) + \"\\n\")
+"
+
+[node name="Console" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 20.0
+margin_top = 20.0
+margin_right = 20.0
+margin_bottom = 20.0
+script = SubResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = SubResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
