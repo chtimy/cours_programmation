@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tile_bg.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="68.289596"
+     inkscape:cy="665.41851"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00c611;fill-opacity:1;stroke:none;stroke-width:0.46499997;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="116.0387"
+       height="116.0387"
+       x="34.58482"
+       y="72.387642"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 61.137649,88.949125 v 0 c -1.620203,3.792166 -3.196668,7.479432 -4.04681,11.367855 l -0.698994,0.11037 c 0.398765,-4.299344 2.40505,-7.955678 4.745804,-11.478225 z"
+       id="rect819"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path822"
+       d="m 51.829986,88.949125 v 0 c 1.620203,3.792166 3.196668,7.479432 4.04681,11.367855 l 0.698994,0.11037 C 56.177025,96.128006 54.17074,92.471672 51.829986,88.949125 Z"
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 54.184494,89.022704 v 0 c 1.620203,3.792166 0.84216,7.405853 1.692302,11.294276 l 0.698994,0.11037 C 56.177025,96.128006 56.52525,92.545251 54.184494,89.022704 Z"
+       id="path824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path826"
+       d="m 79.847471,166.12714 c 2.13992,-0.936 3.527397,1.72274 4.188551,5.10036 l 0.698994,0.0704 c -0.115283,-4.15941 -3.208249,-6.1724 -4.887545,-5.19438 -0.04857,0.38868 -0.05621,0.44519 0,0.0236 z"
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 89.296875,165.01683 v 0 c -2.281661,-0.0383 -3.196668,3.73074 -4.04681,6.21067 l -0.698994,0.0704 c 0.398765,-2.742 2.357803,-6.58581 4.745804,-6.28106 z"
+       id="path828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path830"
+       d="m 85.14698,164.26057 v 0 c 0.742148,2.18229 0.953227,4.487 0.103085,6.96693 l -0.698994,0.0704 c 0.398765,-2.742 0.475763,-4.41277 0.595909,-7.03732 z"
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path832"
+       d="m 110.98326,112.66713 v 0 c -1.6202,3.79217 -2.77145,4.92809 -3.62159,8.81652 l -0.69899,0.11037 c 0.39876,-4.29935 1.97983,-5.40434 4.32058,-8.92689 z"
+       style="fill:#02870c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.6756,112.66713 v 0 c 1.6202,3.79217 3.62189,4.92809 4.47203,8.81652 l 0.69899,0.11037 c -0.39876,-4.29935 -2.83027,-5.40434 -5.17102,-8.92689 z"
+       id="path834"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path836"
+       d="m 104.03011,112.74071 v 0 c 1.6202,3.79217 1.26738,4.85451 2.11752,8.74294 l 0.69899,0.11037 c -0.39876,-4.29935 -0.47572,-5.33076 -2.81651,-8.85331 z"
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 115.47173,112.66713 v 0 c -1.6202,3.79217 -4.99206,4.92809 -5.8422,8.81652 l -0.69899,0.11037 c 0.39876,-4.29935 4.20044,-5.40434 6.54119,-8.92689 z"
+       id="path838"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path840"
+       d="m 105.26638,112.66713 v 0 c 1.6202,3.79217 1.40128,4.92809 2.25142,8.81652 l 0.69899,0.11037 c -0.39876,-4.29935 -0.60966,-5.40434 -2.95041,-8.92689 z"
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#00890c;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 108.56583,112.74071 v 0 c 1.6202,3.79217 -0.95323,4.85451 -0.10309,8.74294 l 0.69899,0.11037 c -0.39876,-4.29935 1.74489,-5.33076 -0.5959,-8.85331 z"
+       id="path842"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#50fc5d;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 110.94975,112.73395 v 0 c -1.89584,3.64378 -3.74772,4.51539 -3.93062,8.7497 l -0.30644,-0.065 c 0.39876,-4.29935 1.89631,-5.16212 4.23706,-8.68467 z"
+       id="path844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path846"
+       d="m 115.39311,112.81747 v 0 c -1.89584,3.64378 -5.81906,4.43187 -6.00196,8.66618 l -0.30644,-0.065 c 0.39876,-4.29935 3.96765,-5.0786 6.3084,-8.60115 z"
+       style="fill:#50fc5d;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path850"
+       d="m 60.911061,89.530139 v 0 c -1.89584,3.64378 -3.794967,5.838307 -3.977867,10.072617 l -0.30644,-0.065 c 0.39876,-4.29935 1.943557,-6.485037 4.284307,-10.007587 z"
+       style="fill:#50fc5d;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+    <path
+       style="fill:#50fc5d;fill-opacity:1;stroke:#00870c;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 89.123765,165.07267 v 0 c -1.801346,0.053 -3.740191,2.58924 -3.828597,5.54788 l -0.30644,-0.065 c 0.422384,-3.09455 2.384875,-5.8818 4.135037,-5.48285 z"
+       id="path852"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\jriffet\Documents\Perso\Godot\lab\Assets\tile_bg.png"
+       inkscape:export-xdpi="81"
+       inkscape:export-ydpi="81" />
+  </g>
+</svg>
