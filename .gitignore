@@ -1,5 +1,6 @@
 *.import
 *.pptx
 Administratif
-/local
+local/
+Local/
 TODO
