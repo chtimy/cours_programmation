@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="lab"
+run/main_scene="res://Scenes/Acceleration.tscn"
 config/icon="res://Assets/icon.png"
 
 [importer_defaults]
