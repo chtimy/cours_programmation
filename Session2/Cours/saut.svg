@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="334.33316mm"
+   height="121.71246mm"
+   viewBox="0 0 334.33316 121.71246"
+   version="1.1"
+   id="svg89176"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="saut.svg">
+  <defs
+     id="defs89170">
+    <marker
+       style="overflow:visible"
+       id="marker94466"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path94464" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker94456"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path94454" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker94446"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#2c19ff;fill-opacity:1;fill-rule:evenodd;stroke:#2c19ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path94444" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker94436"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path94434" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3358"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#2c19ff;fill-opacity:1;fill-rule:evenodd;stroke:#2c19ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3356" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4006"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4004" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13230"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13228" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12866"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path12864" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16140"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path16138" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1739"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1737" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1709"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1707" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4736"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#2c19ff;fill-opacity:1;fill-rule:evenodd;stroke:#2c19ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4734" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4726"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4724" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47817005"
+     inkscape:cx="717.3952"
+     inkscape:cy="152.81489"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata89173">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(68.591553,-17.582084)">
+    <circle
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke-width:0.57;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       id="circle1411"
+       cx="-13.838882"
+       cy="87.716095"
+       r="10.51317"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#2c19ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3358)"
+       d="M -13.630416,88.127019 V 64.334053"
+       id="path3354"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-10.587125"
+       y="78.858833"
+       id="text3812"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan3810"
+         x="-10.587125"
+         y="78.858833"
+         style="fill:#0000ff;stroke-width:0.264583">V</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4006)"
+       d="m -12.045424,72.776328 h 3.3199475"
+       id="path4002"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -68.079192,26.807383 V 139.29455"
+       id="path12328"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 248.78355,26.807382 V 139.29454"
+       id="path26766"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <circle
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke-width:0.57;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       id="circle1687"
+       cx="92.779404"
+       cy="53.75346"
+       r="10.51317"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1739)"
+       d="M 92.779388,54.368039 V 80.58244"
+       id="path1689"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       id="circle1693"
+       cx="92.779404"
+       cy="53.75346"
+       r="1"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.026154"
+       y="75.056465"
+       id="text1697"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan1695"
+         x="96.026154"
+         y="75.056465"
+         style="stroke-width:0.264583">G</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1709)"
+       d="m 94.642858,69.246558 h 3.31994"
+       id="path1705"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#2c19ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4736)"
+       d="M 96.658258,53.40589 V 39.157776"
+       id="path4716"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="99.701553"
+       y="49.117622"
+       id="text4720"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan4718"
+         x="99.701553"
+         y="49.117622"
+         style="fill:#0000ff;stroke-width:0.264583">V</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4726)"
+       d="M 98.243248,43.03512 H 101.5632"
+       id="path4722"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 37.541727,26.807383 V 139.29454"
+       id="path12330-1"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 143.16264,26.807383 V 139.29454"
+       id="path19838"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;stroke-width:0.488065;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect833"
+       width="319.26376"
+       height="5.1616497"
+       x="-68.591553"
+       y="97.972923"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="259.79645"
+       y="101.92315"
+       id="text91960"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan91958"
+         x="259.79645"
+         y="101.92315"
+         style="stroke-width:0.264583">y=0</tspan></text>
+    <circle
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke-width:0.57;stroke-linejoin:bevel;paint-order:fill markers stroke;stop-color:#000000"
+       id="circle94414"
+       cx="199.64314"
+       cy="87.642166"
+       r="10.51317"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-12.520309"
+       y="22.301802"
+       id="text95421"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan95419"
+         x="-12.520308"
+         y="22.301802"
+         style="stroke-width:0.264583">Enclenchement du saut</tspan><tspan
+         sodipodi:role="line"
+         x="-12.520309"
+         y="30.066889"
+         style="stroke-width:0.264583"
+         id="tspan95801">lorsque le joueur </tspan><tspan
+         sodipodi:role="line"
+         x="-12.520311"
+         y="37.831978"
+         style="stroke-width:0.264583"
+         id="tspan95423">appuie sur le bouton sauter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-14.867867"
+       y="113.85657"
+       id="text95779"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         id="tspan95777"
+         x="-14.867867"
+         y="113.85657"
+         style="stroke-width:0.264583">Appliquer une certaine </tspan><tspan
+         sodipodi:role="line"
+         x="-14.867867"
+         y="121.62166"
+         style="stroke-width:0.264583"
+         id="tspan95781">vitesse vers le haut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.163521"
+       y="22.301802"
+       id="text95787"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         x="91.163521"
+         y="22.301802"
+         style="stroke-width:0.264583"
+         id="tspan95791">Durant le saut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="200.71623"
+       y="22.301802"
+       id="text95797"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         x="200.71623"
+         y="22.301802"
+         style="stroke-width:0.264583"
+         id="tspan95795">Au contact du sol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.337288"
+       y="113.85657"
+       id="text95809"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         x="92.337288"
+         y="113.85657"
+         style="stroke-width:0.264583"
+         id="tspan95807">Appliquer l'accélération de</tspan><tspan
+         sodipodi:role="line"
+         x="92.337288"
+         y="121.62166"
+         style="stroke-width:0.264583"
+         id="tspan95813">la gravité</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21207px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="197.46899"
+       y="113.85657"
+       id="text96019"
+       inkscape:export-filename="C:\Users\Jérémy Riffet\Desktop\text96019.png"
+       inkscape:export-xdpi="198"
+       inkscape:export-ydpi="198"><tspan
+         sodipodi:role="line"
+         x="197.46899"
+         y="113.85657"
+         style="stroke-width:0.264583"
+         id="tspan96017">Faire en sorte que l'objet </tspan><tspan
+         sodipodi:role="line"
+         x="197.46899"
+         y="121.62166"
+         style="stroke-width:0.264583"
+         id="tspan96035">ne traverse pas le sol</tspan><tspan
+         sodipodi:role="line"
+         x="197.46899"
+         y="129.38675"
+         style="stroke-width:0.264583"
+         id="tspan96037">et éviter que sa vitesse </tspan><tspan
+         sodipodi:role="line"
+         x="197.46899"
+         y="137.15182"
+         style="stroke-width:0.264583"
+         id="tspan96039">ne s'accumule</tspan></text>
+  </g>
+</svg>
