@@ -1,0 +1,23 @@
+Version 0.1 (actuelle)
+- Créer un premier niveau
+- Créer le héro
+- Faire avancer le héro à droite et à gauche
+- Faire sauter le héro
+- Créer un ennemi
+- Faire bouger l'ennemi selon un pattern
+- Gérer la vie du héro
+- Enlever de la vie au héro au contact d'un ennemi
+- Animation pour le héro et l'ennemi
+
+Version 0.2
+- Renvoyer un ennemi lorsqu'on lui saute dessus
+- Animer le héro lorsqu'il se fait toucher
+
+Version 0.3
+- Créer un point de départ et un point d'arrivée dans le premier niveau
+- Revenir au point de départ lorsque le héro meurt
+- Faire mourir le héro lorsqu'il tombe dans un trou
+
+Version 0.4
+- Barre de vie pour le héro
+- Un menu de pause
