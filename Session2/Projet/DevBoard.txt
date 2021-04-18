@@ -14,6 +14,7 @@ Version 0.2
 - Animer le héro lorsqu'il se fait toucher
 
 Version 0.3
+- Faire bouger la fenêtre lorsque le héro bouge
 - Créer un point de départ et un point d'arrivée dans le premier niveau
 - Revenir au point de départ lorsque le héro meurt
 - Faire mourir le héro lorsqu'il tombe dans un trou
